@@ -1,9 +1,5 @@
 {
   "data": {
-    "allowed_ips": [
-      "192.168.1.1",
-      "203.0.113.45"
-    ],
     "allowed_locations": [
       {
         "lat": 32.875195,
